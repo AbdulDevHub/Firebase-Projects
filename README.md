@@ -20,6 +20,12 @@ This is a simple shopping cart progressive web app I made to test out Firebase R
 
 This is a simple social media progressive web app I made to test out Firebase authentication and Cloud Firestore. The app lets a user sign in with email or Google and lets them create posts which are stored in Firebase's database.
 
+### Features
+
+- **User Authentication**: Users can sign in with their email or Google account using Firebase authentication.
+- **Post Creation**: Users can create posts that are stored in Firebase's database.
+- **Realtime Updates**: Changes to the posts are updated in real time using Cloud Firestore.
+
 <a href="https://github.com/AbdulDevHub/Simple-AI-Projects/" target="_blank" rel="noreferrer">
   <img height="400" src="Firebase Social App/assets/images/Screenshot.png">
 </a>
