@@ -7,15 +7,15 @@ This repository serves as a collection of various Firebase projects. Each projec
 This is a simple shopping cart progressive web app I made to test out Firebase Realtime Database. It allows users to store their grocery list in the app through the database, making it easy to remember what they need to buy.
 
 <a href="https://github.com/AbdulDevHub/Simple-AI-Projects/" target="_blank" rel="noreferrer">
-  <img height="400" src="Screenshots/Screenshot 1.png">
-</a>Pr
+  <img height="400" src="Firebase Add To Cart App/assets/Screenshot.png">
+</a>
 
 ## [Firebase Social App](./Firebase%20Social%20Media%20Web%20App)
 
 This is a simple social media progressive web app I made to test out Firebase authentication and Cloud Firestore. The app lets a user sign in with email or Google and lets them create posts which are stored in Firebase's database.
 
 <a href="https://github.com/AbdulDevHub/Simple-AI-Projects/" target="_blank" rel="noreferrer">
-  <img height="400" src="Screenshots/Screenshot 2.png">
+  <img height="400" src="Firebase Social App/assets/images/Screenshot.png">
 </a>
 
 ## Quick start
